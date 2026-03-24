@@ -1,0 +1,11 @@
+数据集地址 数据量  目标列  任务  模态
+PAP：https://www.kaggle.com/competitions/petfinder-adoption-prediction    14993    AdoptionSpeed    多分类   图像文本表格
+PPC：https://www.kaggle.com/competitions/petfinder-pawpularity-score    9912    Pawpularity    回归    图像表格
+MMSD：https://github.com/headacheboy/data-of-multimodal-sarcasm-detection    31591    Label    二分类    图像文本
+FPI：https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-small    44423    masterCategory    多分类  图像文本表格
+IMDB：https://www.kaggle.com/datasets/harshitshankhdhar/imdb-dataset-of-top-1000-movies-and-tv-shows    1000    IMDB_Rating    回归     文本表格
+FIA*：https://www.kaggle.com/datasets/nikita2998/find-it-again-dataset
+FJPP*：https://www.kaggle.com/datasets/shivamb/real-or-fake-fake-jobposting-prediction
+CIFD*：https://www.kaggle.com/datasets/khusheekapoor/vehicle-insurance-fraud-detection + https://www.kaggle.com/datasets/pacificrm/car-insurance-fraud-detection
+
+带*的为金融相关数据集

@@ -1,0 +1,8 @@
+{
+  "drop_columns": [],
+  "imputation_strategies": {
+    "usage": "mode",
+    "productDisplayName": "fill_empty",
+    "Image_Path": "fill_empty"
+  }
+}

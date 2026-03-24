@@ -1,0 +1,12 @@
+{
+    "gender": "Categorical",
+    "subCategory": "Categorical",
+    "articleType": "Categorical",
+    "baseColour": "Categorical",
+    "season": "Categorical",
+    "year": "Numerical",
+    "usage": "Categorical",
+    "productDisplayName": "Text",
+    "Image_Path": "Image_Path",
+    "masterCategory": "Target"
+}
