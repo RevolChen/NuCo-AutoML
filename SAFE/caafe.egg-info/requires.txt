@@ -1,0 +1,9 @@
+openai==0.28
+kaggle
+openml==0.12.0
+tabpfn
+
+[full]
+autofeat
+featuretools
+tabpfn[full]
